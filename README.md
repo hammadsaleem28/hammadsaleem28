@@ -24,7 +24,7 @@ I’m a Data Scientist and Machine Learning Analyst passionate about turning dat
 ---
 
 ### 📫 How to Reach Me  
-- Email: [your-email@example.com]  
+- Email: [hammadsaleem.ds@gmail.com]  
 - LinkedIn: [[linkedin.com/in/hammadsaleem28](https://linkedin.com/in/hammadsaleem28)  ]
 - Medium: [[@hammadsaleem28](https://twitter.com/hammadsaleem28)]
 
