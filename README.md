@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Data Scientist | Data Analyst | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Empowering+decisions+through+data.; Exploring+AI+to+build+intelligent+solutions.; Transforming+data+into+actionable+insights."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Empowering+decisions+through+data.;Exploring+AI+to+build+intelligent+solutions.;Transforming+data+into+actionable+insights."/>
 </p>
 
 ---
