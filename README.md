@@ -3,43 +3,62 @@
 ---
 
 ### 👀 About Me  
-I’m a Data Scientist and Machine Learning Analyst passionate about turning data into actionable insights. Skilled in building predictive models, data analysis, and applying machine learning to solve real-world problems.
+I’m a passionate **Data Scientist & Machine Learning Analyst** who loves transforming data into meaningful insights and building predictive models that make a difference.
 
 ---
 
 ### 🌱 Currently Learning  
-- Advanced Machine Learning & Deep Learning techniques  
-- Natural Language Processing (NLP)  
-- Model deployment and MLOps  
-- Data visualization & storytelling  
+- Deep Learning & NLP  
+- Model Deployment & MLOps  
+- Advanced Data Visualization  
+- Time Series & Forecasting
 
 ---
 
-### 💞️ I’m looking to collaborate on  
-- Data-driven projects  
-- Machine learning research and applications  
-- Predictive analytics and forecasting  
-- Open-source data science tools
+### 💻 Skills
+
+<div>
+  <p>Python</p>
+  <progress value="90" max="100"></progress>
+
+  <p>Machine Learning</p>
+  <progress value="85" max="100"></progress>
+
+  <p>Data Analysis</p>
+  <progress value="90" max="100"></progress>
+
+  <p>Deep Learning</p>
+  <progress value="75" max="100"></progress>
+
+  <p>SQL & Databases</p>
+  <progress value="80" max="100"></progress>
+</div>
 
 ---
 
-### 📫 How to Reach Me  
-- Email: [hammadsaleem.ds@gmail.com]  
-- LinkedIn: [[linkedin.com/in/hammadsaleem28](https://linkedin.com/in/hammadsaleem28)  ]
-- Medium: [[@hammadsaleem28](https://twitter.com/hammadsaleem28)]
+### 💞️ Collaboration  
+Open to working on machine learning projects, data analytics, AI research, and predictive modeling.
 
 ---
 
-### 😄 Pronouns  
-He / Him
+### 📫 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadsaleem28)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hammadsaleem28)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadsaleem.ds@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hammadsaleem28&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsaleem28&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ### ⚡ Fun Fact  
-I enjoy exploring new datasets and turning complex data into clear, impactful stories!
+I turn complex datasets into clear, actionable insights — one model at a time!
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadsaleem28&show_icons=true&theme=dark" alt="Hammad's GitHub Stats" />
-</p>
